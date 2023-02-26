@@ -1,7 +1,17 @@
-# Internship-Task4--The-Spark-Foundation
+# Exploratory-Data-Analysis--Global-Terrorism
 
-● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+● Conducted exploratory data analysis on the 'Global Terrorism' dataset to identify hot zones of terrorism and address security issues
 
-● As a security/defense analyst, try to find out the hot zone of terrorism.
+● Cleaned and preprocessed the dataset by removing duplicates, handling missing data, and transforming the data into a format suitable for analysis
 
-● What all security issues and insights you can derive by EDA?
+● Presented findings in a clear and concise manner, highlighting key insights and implications for security and defense analysts using Tableau
+
+Skills:
+
+● Proficient in data cleaning and preprocessing techniques to prepare data for analysis
+
+● Strong data analysis skills to identify patterns and trends in complex datasets
+
+● Ability to use data visualization tools such as Tableau to communicate insights effectively
+
+● Effective communication skills to present findings 
