@@ -1,3 +1,4 @@
+https://drive.google.com/drive/folders/1gvXkak-_xVWYVkJG7imbJtgr9OCgNiQC?usp=share_link
 # Exploratory-Data-Analysis--Global-Terrorism
 
 ● Conducted exploratory data analysis on the 'Global Terrorism' dataset to identify hot zones of terrorism and address security issues
