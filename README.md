@@ -16,3 +16,5 @@ Skills:
 ● Ability to use data visualization tools such as Tableau to communicate insights effectively
 
 ● Effective communication skills to present findings 
+
+![dataanalysisterr](https://github.com/user-attachments/assets/8f6b90c9-c903-49fe-a9a1-dda2143bfa05)
